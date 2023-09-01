@@ -1,3 +1,32 @@
 body {
-    background: blue;
+    background: white;
+}
+#greeting {
+    text-align: center;
+    line-height: 10px;
+}
+h1#greeting {
+    font-size: 40px;
+}
+header {
+    background: gray;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+img#header {
+    width: 30px;
+    height: 30px;
+}
+div#left {
+    float: left;
+    width: 40%;
+    bottom: 40px;
+    background: orange;
+    margin-top: 150px;
+    line-height: 45px;
+}
+h1#left {
+    margin-left: 90px;
+    margin-bottom: 0px;
 }
